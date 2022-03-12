@@ -1,4 +1,3 @@
-/* Reset CSS (JANGAN DIHAPUS) */
 html, body,
 ul, ol, li,
 h1, h2, h3, h4, h5, h6, p,
@@ -15,7 +14,6 @@ li {
   list-style: none;
 }
 
-/* Ketik code Anda dibawah */
 .header{
   background-color:#26d0c9;
   color:#fff;
